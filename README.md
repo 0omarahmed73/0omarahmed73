@@ -2,10 +2,8 @@
 I'm Omar Ahmed, a react-js web developer from Egypt.
 
 ```javascript
-#!/usr/bin/javascript
-# -*- coding: utf-8 -*-
 
-   class ReactJsDeveloper {
+class ReactJsDeveloper {
 
   constructor() {
     this.name = 'Omar Ahmed Saeed'
