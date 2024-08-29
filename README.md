@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hey! 👋
+I'm Omar Ahmed, a react-js web developer from Egypt.
 
-<!--
-**0omarahmed73/0omarahmed73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#!/usr/bin/javascript
+# -*- coding: utf-8 -*-
 
-Here are some ideas to get you started:
+   class ReactJsDeveloper {
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  constructor() {
+    this.name = 'Omar Ahmed Saeed'
+    this.role = 'React Js Developer'
+  }
+
+  sayHi() {
+    console.log('Thanks for dropping by, hope you find some of my work interesting.')
+  }
+}
+
+
+const me = new ReactJsDeveloper()
+me.sayHi()
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript, Python,...
+- ⚙️ React, Express
+- 👁️ SASS, CSS, Tailwind, Bootstrap
+- 💽 MySQL, SQL, Mongo
++ a lot more :D
+
+## Contact
+- [omar-ahmed-saeed.netlify.app](https://omar-ahmed-saeed.netlify.app/)
+- [0omarahmed73](https://www.linkedin.com/in/0omarahmed73/) on LinkedIn
