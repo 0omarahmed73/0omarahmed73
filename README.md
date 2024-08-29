@@ -1,6 +1,7 @@
 ## Hey! 👋
 I'm Omar Ahmed, a react-js web developer from Egypt.
 
+```javascript
 #!/usr/bin/javascript
 # -*- coding: utf-8 -*-
 
@@ -19,7 +20,7 @@ I'm Omar Ahmed, a react-js web developer from Egypt.
 
 const me = new ReactJsDeveloper()
 me.sayHi()
-
+```
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, Python,...
 - ⚙️ React, Express
@@ -30,3 +31,4 @@ me.sayHi()
 ## Contact
 - [omar-ahmed-saeed.netlify.app](https://omar-ahmed-saeed.netlify.app/)
 - [0omarahmed73](https://www.linkedin.com/in/0omarahmed73/) on LinkedIn
+
